@@ -1,0 +1,9 @@
+pandas
+numpy
+statsmodels
+requests
+vaderSentiment
+openpyxl
+matplotlib
+seaborn
+scipy
